@@ -17,8 +17,8 @@ print('Summa ir', Summa)
 ```
 
 ## bilde
-![MarkdownLogo](//https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
-
+![Markdown Logo](//https://images.app.goo.gl/NjNAS7XfTmw63Gfq8)
+![Anime](//6228827.png)
 ## saraksts
 
 ## tabula
