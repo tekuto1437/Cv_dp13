@@ -21,7 +21,7 @@ print('Summa ir', Summa)
 ![Anime](6228827.png)
 
 ## saraksts
-Kāpēc es gribu kļūt par programmētāju
+Plusi un minusi stradat par programmetaju
 
 Plusi:
 
