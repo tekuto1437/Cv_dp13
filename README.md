@@ -19,12 +19,33 @@ print('Summa ir', Summa)
 ## bilde
 ![Markdown Logo](//https://images.app.goo.gl/NjNAS7XfTmw63Gfq8)
 ![Anime](//6228827.png)
+
 ## saraksts
+Kāpēc es gribu kļūt par programmētāju
+
+Plusi:
+
+1.  Augsti ienākumi
+2.  Brīvs grafiks
+3.  Nākotnes profesija
+
+Minusi:
+
+-  Nav piemērots visiem
+-  Pirmajā reizē nevar iegūt rezultātus
+-  Augsts angļu valodas prasmes līmenis
+
 
 ## tabula
+| Brand      | Model         | Price  |
+| ------------- |:-------------:| -----:|
+| Apple    | Iphone XS| $ 1000 |
+| Samsung     | Galaxy S21 5G     |   $ 850 |
+| Huawei | P30 Pro   |    $ 700 |
 
 ## horizontāla līnija
 
 ***
 
 ## emoji
+:blush:
