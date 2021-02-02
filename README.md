@@ -17,8 +17,8 @@ print('Summa ir', Summa)
 ```
 
 ## bilde
-![Markdown Logo](//https://images.app.goo.gl/NjNAS7XfTmw63Gfq8)
-![Anime](//6228827.png)
+![](https://pandao.github.io/editor.md/examples/images/4.jpg)
+![Anime](6228827.png)
 
 ## saraksts
 Kāpēc es gribu kļūt par programmētāju
